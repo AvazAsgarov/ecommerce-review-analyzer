@@ -5,6 +5,3 @@ env/
 __pycache__/
 *.pyc
 *.pyo
-
-# Ignore data as it might be large
-data/
